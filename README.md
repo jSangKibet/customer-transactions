@@ -1,7 +1,7 @@
 # Customer Transactions
 
 ## Tech Stack
-- Java 25
+- Java 21
 - Spring Boot
 - H2 In-memory DB
 
@@ -12,7 +12,7 @@
 - Execute the other endpoints
 
 ### Alternative Launch Instructions
-- Download the JAR file under releases on the GitHub repo
+- Download the JAR file under releases on the GitHub repo: https://github.com/jSangKibet/customer-transactions/releases
 - Run the file via `java -jar customer-transactions-0.0.1-SNAPSHOT.jar`
 
 ## Notes
